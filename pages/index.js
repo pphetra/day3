@@ -12,6 +12,11 @@ export default function Home() {
                 <a>Pure React</a>
               </Link>
             </li>
+            <li className="list-disc">
+              <Link href="./registers/use_hook_form">
+                <a>React hook form</a>
+              </Link>
+            </li>
           </ul>
         </li>
       </ul>
